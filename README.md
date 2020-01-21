@@ -29,3 +29,8 @@ Implementation and test of the performance of some usual bandit algorithms.
 ### 2. [Adversarial bandits](./bandits_strategies/adversarial-bandits/Adversarial_bandits.ipynb)
 Implementation of EXP3 algorithm for simple player vs adversary game.
 ![](./bandits_strategies/adversarial-bandits/rock_paper_scissors.PNG)
+
+## [Monte Carlo Tree Search](./monte_carlo_tree_search/MCTS%20--%20Connect%204-Lab2-newLab.ipynb)
+*Performing monte carlo tree search for the game connect 4, by Claire Vernade.*  
+  
+![](./monte_carlo_tree_search/Connect4.PNG)
