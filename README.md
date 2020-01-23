@@ -20,10 +20,11 @@ Implementation of Monte Carlo methods for prediction and control in [Black Jack 
 *Work done during the course of Thomas Bonald and Pierre Gaillard at Telecom Paris.*
 
 Implementation and test of the performance of some usual bandit algorithms.
-* 𝜀 -greedy
-* adaptive greedy
-* UCB
-* Thompson sampling
+
+* **𝜀 -greedy**
+* **adaptive greedy**
+* **UCB**
+* **Thompson sampling**
 
 ### 1. [Bandits algorithms](./bandits_strategies/stochastic-bandits/bandits_algorithms.ipynb)
 Implementation of the above algorithms in a bandit environment (Bernouilli and Gaussian rewards).
