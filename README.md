@@ -25,10 +25,13 @@ Implementation and test of the performance of some usual bandit algorithms.
 * UCB
 * Thompson sampling
 
-### 1. [Stochastic bandits](./bandits_strategies/stochastic-bandits/lab-stochastic-bandits.ipynb)
+### 1. [Bandits algorithms](./bandits_strategies/stochastic-bandits/bandits_algorithms.ipynb)
+Implementation of the above algorithms in a bandit environment (Bernouilli and Gaussian rewards).
+
+### 2. [Stochastic bandits](./bandits_strategies/stochastic-bandits/lab-stochastic-bandits.ipynb)
 Look at the regret and precision of these algorithms, with some statistics.
 
-### 2. [Adversarial bandits](./bandits_strategies/adversarial-bandits/Adversarial_bandits.ipynb)
+### 3. [Adversarial bandits](./bandits_strategies/adversarial-bandits/Adversarial_bandits.ipynb)
 Implementation of EXP3 algorithm for simple player vs adversary game.
 ![](./bandits_strategies/adversarial-bandits/rock_paper_scissors.PNG)
 
