@@ -19,7 +19,7 @@ Implementation of Monte Carlo methods for prediction and control in [Black Jack 
 ## Bandits strategies
 *Work done during the course of Thomas Bonald and Pierre Gaillard at Telecom Paris.*
   
-### 1. [Stochastic bandits](./bandits_strategies/stochastic-bandits/lab_stochastic_bandits.ipynb)
+### 1. [Stochastic bandits](./bandits_strategies/stochastic-bandits/lab-stochastic-bandits.ipynb)
 Implementation and test of the performance of some usual bandit algorithms.
 * 𝜀 -greedy
 * adaptive greedy
