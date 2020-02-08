@@ -13,7 +13,7 @@ Compilation of work and assignments with my solutions for reinforcement learning
 Implementation of Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration.
 
 ### 2. [Monte Carlo methods](./openai_gym/monte-carlo-methods/Monte_Carlo.ipynb)
-Implementation of Monte Carlo methods for prediction and control in [Black Jack environment](https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py)
+Implementation of Monte Carlo methods for prediction and control in **[Black Jack environment](https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py)**
 ![](./openai_gym/monte-carlo-methods/images/optimal.png)
 
 ## Bandits strategies
