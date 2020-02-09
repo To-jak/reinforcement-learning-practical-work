@@ -1,8 +1,19 @@
-# Reinforcement Learning practical work
-Compilation of work and assignments with my solutions for reinforcement learning thematic.
+#### Reinforcement Learning practical work
+*Compilation of work and assignments with my solutions for reinforcement learning thematic.*
+
+* **Dynamic Programming**  
+Using dynamic programming methods (Policy Evaluation, Policy Improvement, Policy Iteration, Value Iteration...) to solve reinforcement learning problem in MDP context.  
   
----
----
+* **Monte Carlo methods**  
+Monte Carlo methods for reinforcement learning. The agent learns directly from episodes of experience without any prior knowledge of MDP transitions.
+  
+* **Bandits Strategies**  
+Multi armed bandits problem. An agent chooses an action and each action returns a reward according to a given underlying probability distribution.
+  
+* **Value Based Methods**  
+  
+* **Policy Based Methods**  
+---  
 # Dynamic Programming
 
 #### [Value iteration algorithm implementation]() for MDP graph:
@@ -43,3 +54,13 @@ Implementation of EXP3 algorithm for simple player vs adversary game.
 ![](./bandits_strategies/adversarial-bandits/rock_paper_scissors.PNG)
 
 # Value Based Methods
+
+#### [Deep Q Network Agent with OpenAI Gym](./openai_gym/deep-q-network)
+![](./openai_gym/deep-q-network/images/lunar_lander_agent.PNG)  
+Deep Q-learning algorithm implementation in the OpenAI's [Lunar Lander](https://gym.openai.com/envs/LunarLander-v2) gym environment *(see [this paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) for DQN details)*.  
+  
+Learning visualization:  
+![](./openai_gym/deep-q-network/images/dqn_learning.PNG)  
+  
+Results:  
+![](./openai_gym/deep-q-network/images/dqn_lunar_lander.gif)  
