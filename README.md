@@ -64,3 +64,5 @@ Learning visualization:
   
 Results:  
 ![](./openai_gym/deep-q-network/images/dqn_lunar_lander.gif)  
+
+# Policy Based Methods
