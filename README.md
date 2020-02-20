@@ -16,7 +16,7 @@ Multi armed bandits problem. An agent chooses an action and each action returns 
 ---  
 # Dynamic Programming
 
-#### [Value iteration algorithm implementation]() for MDP graph:
+#### [Value iteration algorithm implementation](./value_iteration_algorithm/value_iteration_algorithm.ipynb) for MDP graph:
 ![](./value_iteration_algorithm/MDPgraph.PNG)
 
 #### [Dynamic programming with OpenAI Gym](./openai_gym/dynamic_programming/Dynamic_Programming.ipynb)
